@@ -1,0 +1,34 @@
+user_id,product_id,product_name,category,rating
+U001,P001,Bamboo Toothbrush,Eco-Friendly,4.5
+U001,P002,Organic Cotton T-Shirt,Organic,4.2
+U001,P003,Recycled Plastic Bottle,Recycled,3.8
+U001,P004,LED Light Bulb,Electronics,4.0
+U002,P002,Organic Cotton T-Shirt,Organic,4.8
+U002,P005,Solar Panel,Electronics,4.3
+U002,P006,Bamboo Cutting Board,Eco-Friendly,4.6
+U002,P001,Bamboo Toothbrush,Eco-Friendly,4.1
+U003,P003,Recycled Plastic Bottle,Recycled,3.9
+U003,P004,LED Light Bulb,Electronics,4.2
+U003,P007,Organic Coffee Beans,Organic,4.7
+U003,P008,Cloth Shopping Bag,Eco-Friendly,4.4
+U004,P001,Bamboo Toothbrush,Eco-Friendly,4.3
+U004,P005,Solar Panel,Electronics,4.5
+U004,P009,Recycled Paper Notebook,Recycled,3.7
+U005,P002,Organic Cotton T-Shirt,Organic,4.6
+U005,P006,Bamboo Cutting Board,Eco-Friendly,4.8
+U005,P010,Electronics Waste Recycler,Electronics,3.5
+U001,P007,Organic Coffee Beans,Organic,4.4
+U002,P003,Recycled Plastic Bottle,Recycled,4.0
+U003,P001,Bamboo Toothbrush,Eco-Friendly,4.2
+U004,P002,Organic Cotton T-Shirt,Organic,4.5
+U005,P004,LED Light Bulb,Electronics,4.1
+U001,P005,Solar Panel,Electronics,4.2
+U002,P008,Cloth Shopping Bag,Eco-Friendly,4.5
+U003,P006,Bamboo Cutting Board,Eco-Friendly,4.3
+U004,P007,Organic Coffee Beans,Organic,4.4
+U005,P009,Recycled Paper Notebook,Recycled,3.8
+U001,P009,Recycled Paper Notebook,Recycled,3.6
+U002,P001,Bamboo Toothbrush,Eco-Friendly,4.7
+U003,P005,Solar Panel,Electronics,4.0
+U004,P003,Recycled Plastic Bottle,Recycled,3.9
+U005,P007,Organic Coffee Beans,Organic,4.5
